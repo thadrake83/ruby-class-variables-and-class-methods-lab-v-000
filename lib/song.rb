@@ -27,7 +27,7 @@ def genre_count
   genre_count
 end
 
-  
+
 
 
 
