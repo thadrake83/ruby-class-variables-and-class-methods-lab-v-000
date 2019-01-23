@@ -19,11 +19,10 @@ class Song
     @@artists.uniq
   end
   def genres
-    @@genres.uniq 
+    @@genres.uniq
   end
-  
-  
-        
-  
-end
 
+
+
+
+end
