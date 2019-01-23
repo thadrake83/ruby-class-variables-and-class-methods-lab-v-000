@@ -12,4 +12,5 @@ class Song
     @@artist << artist
     @@genre << genre
   end
-  
+end
+
